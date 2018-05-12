@@ -1,0 +1,47 @@
+_repo: Stories-from-the-Faerie-Queen_41350
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Le Quesne, Rose
+    alias: Quesne, Rose le
+    gutenberg_agent_id: '41128'
+    url: http://www.gutenberg.org/2009/agents/41128
+covers:
+- cover_type: archival
+  image_path: 41350-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Lang, Jean
+    alias: Lang, Jeanie
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '26717'
+    url: http://www.gutenberg.org/2009/agents/26717
+  - agent_name: Spenser, Edmund
+    aliases:
+    - Spenser, Edmond
+    - Immerito
+    - Spencer, Edmund
+    birthdate: 1551
+    deathdate: 1599
+    gutenberg_agent_id: '2264'
+    url: http://www.gutenberg.org/2009/agents/2264
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Spenser
+description: ''
+gutenberg_issued: '2012-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Told to the children series
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Mythology -- Juvenile fiction'
+- !lcc 'PZ'
+title: Stories from the Faerie Queen, Told to the Children
+url: http://www.gutenberg.org/ebooks/41350
